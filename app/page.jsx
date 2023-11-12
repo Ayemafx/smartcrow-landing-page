@@ -24,7 +24,7 @@ const Home = () => (
           </>
           <div className="mx-2"></div>
           <>
-          <a href="">
+          <a href="https://clinquant-biscotti-94b2e3.netlify.app/">
                 <button
                   type='button'
                   className='black_btn contract'
